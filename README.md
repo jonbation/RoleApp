@@ -38,17 +38,3 @@ The app combines a variety of different Google technologies, such as:
 4. If you'd like to change the font that the app renders with, an optional spec can be placed in
    `~/gradlew/gradle.properties` file:
 
-```
-fontName="Roboto Flex"
-```
-
-For Googlers, get this info from go/androidify-api-setup
-
-## Contributing
-
-See [Contributing](CONTRIBUTING.md).
-
-## License
-
-Androidify 2.0 is licensed under the [Apache License 2.0](LICENSE). See the `LICENSE` file for
-details.
