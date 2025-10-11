@@ -14,7 +14,7 @@ model, but we've been working on a fine-tuned model that's trained specifically 
 that make the Android bot cute and fun; we'll share that version later this summer. In the meantime,
 don't be surprised if the sample app puts out some interesting looking examples!
 
-For the full blog post on app, [read here](https://android-developers.googleblog.com/2025/05/androidify-building-ai-driven-experiences-jetpack-compose-gemini-camerax.html). 
+For the full blog post on app [read here](https://android-developers.googleblog.com/2025/05/androidify-building-ai-driven-experiences-jetpack-compose-gemini-camerax.html). 
 
 ## Under the hood
 The app combines a variety of different Google technologies, such as:
